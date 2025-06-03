@@ -133,7 +133,7 @@ To enhance usability and professionalism:
 
 * **Dataset**: \[To be uploaded]
 * **Power BI Dashboard (.pbix)**: \[To be uploaded]
-* **Live Dashboard Link / GitHub Repo**: \[To be added here]
+* **Live Interactive Dashboard Link**: \[(https://app.powerbi.com/links/Oy3j4lei79?ctid=9c6fd5d9-c228-4b22-be9c-89e96580edb1&pbi_source=linkShare)]
 
 ---
 
