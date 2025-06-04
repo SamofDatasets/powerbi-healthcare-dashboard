@@ -1,6 +1,10 @@
 
 # Patient Visits Analytics Dashboard 🏥
 
+### Live Dashboard Link: https://app.powerbi.com/links/Oy3j4lei79?ctid=9c6fd5d9-c228-4b22-be9c-89e96580edb1&pbi_source=linkShare
+
+ <img width="629" alt="Image" src="https://github.com/user-attachments/assets/01d94221-23a4-4a8c-8e12-b970163780f4" />
+
 ## 🔗 Problem Statement
 
 In the healthcare sector, patient satisfaction and operational efficiency are critical metrics for evaluating service quality and patient retention. This dashboard provides insights into patient visits, wait times, satisfaction scores, and referral behaviors. It helps healthcare providers:
