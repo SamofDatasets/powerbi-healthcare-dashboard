@@ -131,7 +131,7 @@ To enhance usability and professionalism:
 
 ## 📂 Project Files
 
-* **Dataset**: \[To be uploaded]
+* [**Dataset(CSV)**](https://github.com/SamofDatasets/powerbi-healthcare-project/blob/main/datasets/Patients%20Emergency%20Room%20Vists.csv)
 * **Power BI Dashboard (.pbix)**: \[To be uploaded]
 * **Live Interactive Dashboard Link**: \[(https://app.powerbi.com/links/Oy3j4lei79?ctid=9c6fd5d9-c228-4b22-be9c-89e96580edb1&pbi_source=linkShare)]
 
