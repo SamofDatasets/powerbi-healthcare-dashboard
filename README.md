@@ -131,9 +131,10 @@ To enhance usability and professionalism:
 
 ## 📂 Project Files
 
-* [**Dataset(CSV)**](https://github.com/SamofDatasets/powerbi-healthcare-project/blob/main/datasets/Patients%20Emergency%20Room%20Vists.csv)
-* **Power BI Dashboard (.pbix)**: \[To be uploaded]
-* **Live Interactive Dashboard Link**: \[(https://app.powerbi.com/links/Oy3j4lei79?ctid=9c6fd5d9-c228-4b22-be9c-89e96580edb1&pbi_source=linkShare)]
+* [**Dataset(CSV)**](https://github.com/SamofDatasets/powerbi-healthcare-project/blob/main/datasets)
+* [**Power BI Dashboard (.pbix)**](https://github.com/SamofDatasets/powerbi-healthcare-project/blob/main/Patient_Visits_Analytics_Dashboard.pbix)
+* [**Live/Interactive Dashboard**](https://app.powerbi.com/links/Oy3j4lei79?ctid=9c6fd5d9-c228-4b22-be9c-89e96580edb1&pbi_source=linkShare)
+* [**Power BI Dashboard image (.png)**](https://github.com/SamofDatasets/powerbi-healthcare-project/blob/main/Patient_Visits_Analytics_Dashboard_image.PNG)
 
 ---
 
