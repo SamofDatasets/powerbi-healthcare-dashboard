@@ -3,7 +3,7 @@
 
  <img width="629" alt="Image" src="https://github.com/user-attachments/assets/01d94221-23a4-4a8c-8e12-b970163780f4" />
 
- [**View Live/Interactive Dashboard**](https://app.powerbi.com/links/Oy3j4lei79?ctid=9c6fd5d9-c228-4b22-be9c-89e96580edb1&pbi_source=linkShare)
+ [**View Live/Interactive Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMjY1Y2ZhY2QtYjRlZi00ZGIwLTk0NTEtYjg1ZDIzOWMxMGFiIiwidCI6IjljNmZkNWQ5LWMyMjgtNGIyMi1iZTljLTg5ZTk2NTgwZWRiMSJ9)
 
 ## 🔗 Problem Statement
 
@@ -137,7 +137,7 @@ To enhance usability and professionalism:
 
 * [**Dataset(CSV)**](https://github.com/SamofDatasets/powerbi-healthcare-project/blob/main/datasets)
 * [**Power BI Dashboard (.pbix)**](https://github.com/SamofDatasets/powerbi-healthcare-project/blob/main/Patient_Visits_Analytics_Dashboard.pbix)
-* [**Live/Interactive Dashboard**](https://app.powerbi.com/links/Oy3j4lei79?ctid=9c6fd5d9-c228-4b22-be9c-89e96580edb1&pbi_source=linkShare)
+* [**Live/Interactive Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMjY1Y2ZhY2QtYjRlZi00ZGIwLTk0NTEtYjg1ZDIzOWMxMGFiIiwidCI6IjljNmZkNWQ5LWMyMjgtNGIyMi1iZTljLTg5ZTk2NTgwZWRiMSJ9)
 * [**Power BI Dashboard image (.png)**](https://github.com/SamofDatasets/powerbi-healthcare-project/blob/main/Patient_Visits_Analytics_Dashboard_image.PNG)
 
 ---
